@@ -9,3 +9,9 @@ Write a python script that takes in a YouTube channel as an input and displays m
 Channels display similar channels on their home pages, so pulling HTML data would be a good place to start. 
 Some specifics to include:
 1. You should display the number of subscribers for every channel displayed.
+2. Utilize the ppring library to display information in an organized manner. 
+3. The number of recommended channels is up to your discretion.
+
+## Extras
+Get Creative! 
+* To make your recommnder system more accurate, you could get all the similar channels from a specific channel, then check each of those channels' "recommended" lists to see if there are any matches with the original set. Channels that appear more often are likely to be more popular!
