@@ -17,4 +17,5 @@ Get Creative!
 * To make your recommnder system more accurate, you could get all the similar channels from a specific channel, then check each of those channels' "recommended" lists to see if there are any matches with the original set. Channels that appear more often are likely to be more popular!
 * Add an option for the user to input more than one channel, then check to see if those channels share any recommended channels. The more data, the better.
 * Most popular channles list their social media links (Twitter, Facebook, etc.). Scrape these from their "About" sections and display them.
+* Add an option for the user to input a genre to specify results. Many channels have a lot of content. For example, Vsauce has many science-oreinted videos, but suppose the user is only interested in videos relating to mathematics. Add genre functionality!
 * Add anything you think is valuable lol.
